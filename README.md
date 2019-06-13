@@ -13,6 +13,8 @@ We are a bridge between them and the Rust dev team.
 
 * Share knowledge and make game engine development more accessible for people that are not engine developers. We know it can be an intimidating and scary field when you're just starting out.
 
+More details about our mission can be found in our [charter](docs/charter.md).
+
 ## How can you help
 
 Let us know where the gaps currently are. If there are problems in the tooling, documentation crate ecosystem, or even the language, we would like to know about it.
