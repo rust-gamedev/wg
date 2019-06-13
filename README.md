@@ -18,7 +18,6 @@ We are a bridge between them and the Rust dev team.
 Let us know where the gaps currently are. If there are problems in the tooling, documentation crate ecosystem, or even the language, we would like to know about it.
 
 If you have an idea, proposal or issue where you think the rust language or ecosystem needs to improve in order to make it a better option for game development open an issue on this repository. It will be discussed and triaged here.
-A good example issue: [Add link to the issue about floating-point determinism when it's created]
 
 You can also look for issues tagged with `good first issue` or `help wanted` in this organization.
 
