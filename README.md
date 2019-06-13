@@ -1,6 +1,7 @@
+
 # Rust game development working group
 
-The game development working group's main purpose is to make Rust the default language option for game developers.
+The game development working group's main purpose is to make Rust a first-class option for game developers.
 
 ## What are we doing?
 
@@ -11,8 +12,6 @@ We want game developers to have a representation in the Rust project.
 We are a bridge between them and the Rust dev team.
 
 * Share knowledge and make game engine development more accessible for people that are not engine developers. We know it can be an intimidating and scary field when you're just starting out.
-
-More details about our mission can be found in our [charter](docs/charter.md).
 
 ## How can you help
 
