@@ -27,7 +27,7 @@ If you're interested in learning more about our governance or becoming a member 
 
 ## Join the fun!
 
-We have a meeting every other Wednesday at **20:00 BST**: <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MWgxZnN2cWR2NjBhZGlhODBwNXRoc3RrMDBfMjAxOTA3MTBUMTkwMDAwWiAxM3JhM3R1ZXFrcWJmZnBmMmc1NmZvMmN0c0Bn&amp;tmsrc=13ra3tueqkqbffpf2g56fo2cts%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>    
+We have a meeting every other Wednesday at **19:00 UTC**.  This is 13:00 PST (UTC-7), 16:00 US EST (UTC-4), 20:00 BST (UTC+1), and 04:00 on Thursday JST (UTC+9): <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MWgxZnN2cWR2NjBhZGlhODBwNXRoc3RrMDBfMjAxOTA3MTBUMTkwMDAwWiAxM3JhM3R1ZXFrcWJmZnBmMmc1NmZvMmN0c0Bn&amp;tmsrc=13ra3tueqkqbffpf2g56fo2cts%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>    
 We also have a [discord channel][discord].
 
 [issue]: https://github.com/rust-gamedev/wg/issues/new
