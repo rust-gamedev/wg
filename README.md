@@ -29,6 +29,7 @@ If you're interested in learning more about our governance or becoming a member 
 
 * We have a [Google Hangouts](https://hangouts.google.com/call/BgkpIXkZghZH92NqjNWsAEEI) meeting every other Wednesday at **19:00 UTC**.
 * [This link](https://www.google.com/search?q=1900+utc+in+local+time) should convert that time to your local time zone's time.
+* If you'd like to use Google Calendar to track meeting days you can follow this event: <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MWgxZnN2cWR2NjBhZGlhODBwNXRoc3RrMDBfMjAxOTA3MTBUMTkwMDAwWiAxM3JhM3R1ZXFrcWJmZnBmMmc1NmZvMmN0c0Bn&amp;tmsrc=13ra3tueqkqbffpf2g56fo2cts%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>    
 * We have a `wg-gamedev` channel in the [Offical Rust Discord][discord].
 * There's a `game-and-graphics` channel in the [Community Rust Discord](https://discordapp.com/invite/aVESxV8).
 * There's a [Rust Gamedev](https://www.reddit.com/r/rust_gamedev/) subreddit as well.
