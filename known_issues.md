@@ -13,19 +13,19 @@ If you feel that something should be added to this list:
 If you're not sure, just open an issue in this repo. We're happy to help!
 
 ## IDE/Debugging Experience
-* https://github.com/rust-gamedev/wg/issues/20 - Map/Set in .natvis files
-* https://github.com/rust-gamedev/wg/issues/22 - RLS for huge projects
-* https://github.com/EmbarkStudios/rust-ecosystem/issues/8 - RLS in VS Code robustness & performance
-* https://github.com/EmbarkStudios/rust-ecosystem/issues/9 - Better debugger experience in VS Code
+* [wg #20](https://github.com/rust-gamedev/wg/issues/20): Map/Set in .natvis files
+* [wg #22](https://github.com/rust-gamedev/wg/issues/22): RLS for huge projects
+* [embark-rust-ecosystem #8](https://github.com/EmbarkStudios/rust-ecosystem/issues/8): RLS in VS Code robustness & performance
+* [embark-rust-ecosystem #9](https://github.com/EmbarkStudios/rust-ecosystem/issues/9): Better debugger experience in VS Code
  
 ## Debug Performance
-* https://github.com/rust-gamedev/wg/issues/32 - Selective Enabling/Disabling optimizations at a crate/file/function level
-    * Profile overrides do not work for code using generics (such as nphysics) https://github.com/rust-lang/rust/issues/63484
-* https://github.com/EmbarkStudios/rust-ecosystem/issues/5 - More efficient runtime code generation for debug builds
+* [wg #32](https://github.com/rust-gamedev/wg/issues/32): Selective Enabling/Disabling optimizations at a crate/file/function level
+    * [rust-lang #63484](https://github.com/rust-lang/rust/issues/63484): Profile overrides do not work for code using generics (such as nphysics) 
+* [embark-rust-ecosystem #5](https://github.com/EmbarkStudios/rust-ecosystem/issues/5): More efficient runtime code generation for debug builds
  
 ## Iteration Times
-* https://github.com/EmbarkStudios/rust-ecosystem/issues/13 - Dynamic libraries (dll/dylib) for fast iteration
-* https://github.com/EmbarkStudios/rust-ecosystem/issues/11 - Distributed compilation for fast iteration
+* [embark-rust-ecosystem #13](https://github.com/EmbarkStudios/rust-ecosystem/issues/13): Dynamic libraries (dll/dylib) for fast iteration
+* [embark-rust-ecosystem #11](https://github.com/EmbarkStudios/rust-ecosystem/issues/11): Distributed compilation for fast iteration
  
 ## Runtime Performance
-* https://github.com/EmbarkStudios/rust-ecosystem/issues/2 - fast math support
+* [embark-rust-ecosystem #2](https://github.com/EmbarkStudios/rust-ecosystem/issues/2): Fast fp math support
