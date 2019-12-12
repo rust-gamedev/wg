@@ -20,7 +20,7 @@ If you're not sure, just open an issue in this repo. We're happy to help!
  
 ## Debug Performance
 * [wg #32](https://github.com/rust-gamedev/wg/issues/32): Selective Enabling/Disabling optimizations at a crate/file/function level
-    * This is due to hit stable in 1.41, but there are caveats for code using generics (see 
+    * Crate-level support is due to hit stable in 1.41, but there are caveats for code using generics (see 
       [rust-lang #63484](https://github.com/rust-lang/rust/issues/63484))
 * [embark-rust-ecosystem #5](https://github.com/EmbarkStudios/rust-ecosystem/issues/5): More efficient runtime code generation for debug builds
  
