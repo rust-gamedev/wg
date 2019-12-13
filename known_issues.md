@@ -36,7 +36,7 @@ If you're not sure, just open an issue in this repo. We're happy to help!
 
 ## Memory Management
 * [wg #60](https://github.com/rust-gamedev/wg/issues/60): Custom allocator support in standard library
-    * More broadly, we are concerned that not having a standard way to specify custom allocators could can cause 
+    * More broadly, we are concerned that not having a standard way to specify custom allocators could cause 
       fragmentation in the Rust library ecosystem
     * [wg #47](https://github.com/rust-gamedev/wg/issues/47): From a practical standpoint this also discourages use of
       multiple heaps, a standard practice in the games industry
