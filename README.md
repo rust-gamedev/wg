@@ -31,6 +31,7 @@ If you're interested in learning more about our governance or becoming a member 
 * We have a `Rust Gamedev WG` room on [Matrix](https://matrix.to/#/#rust-gamedev-wg:matrix.org)
 * There are some additional places to gather and discuss the subject of gamedev
   in Rust that we do not directly moderate ourselves:
+  * There's a [Game Development in Rust](https://discord.gg/yNtPTb2) Discord server.
   * There's a `games-and-graphics` channel in the [Community Rust Discord](https://discordapp.com/invite/aVESxV8).
   * There's a [Rust Gamedev](https://www.reddit.com/r/rust_gamedev/) subreddit as well.
 
